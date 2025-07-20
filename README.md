@@ -1,0 +1,2 @@
+# open-flisht-deck
+OpenFlightDeck is an open-source, modular flight control system for aerial vehicle simulation. It features fully 3D-printable joystick, throttle, and rudder pedal units with custom drivers and firmware. Designed for DIY assembly and deep configurability, it supports standard flight simulators like War Thunder and DCS World.
